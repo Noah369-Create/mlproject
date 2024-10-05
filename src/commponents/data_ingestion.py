@@ -10,8 +10,8 @@ from dataclasses import dataclass
 from src.commponents.data_transformation import DataTransformation
 from src.commponents.data_transformation import DataTransformationConfig
 
-#from src.commponents.model_trainer import ModelTrainerConfig
-#from src.commponents.model_trainer import ModelTrainer
+from src.commponents.model_trainer import ModelTrainerConfig
+from src.commponents.model_trainer import ModelTrainer
 @dataclass
 class DataIngestionConfig:
     train_data_path: str=os.path.join('artifacts',"train.csv")

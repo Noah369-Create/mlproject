@@ -1,6 +1,6 @@
 # End-to-End Machine Learning Project with CI/CD
 
-This project demonstrates an **end-to-end machine learning workflow** with Continuous Integration and Continuous Deployment (CI/CD) using **GitHub Actions**. It uses Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, XGBoost, Flask, and Dill for creating, training, deploying, and managing machine learning models.
+This project demonstrates an **end-to-end machine learning workflow** with Continuous Integration and Continuous Deployment (CI/CD) using **GitHub Actions**. It uses Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, XGBoost, Flask, and Dill for creating, training, deploying, and managing machine learning models
 
 ## Table of Contents
 - [Project Overview](#project-overview)
